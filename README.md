@@ -31,9 +31,9 @@ Ariel is someone who has recently started going to the gym, and wants to put on 
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Product Vision Statement
 
-An application that provides healthy, easy and delicious meals and nutrition plans to students who want to change their diet.
+For college students and fitness-oriented users who want to improve their diet but lack time and nutritional knowledge, dAIet is a diet-tracking and smart recipe recommendation app that provides quick meal ideas, calorie guidance, and AI-powered cooking assistance. Unlike generic recipe platforms, our app focuses on diet goals (weight loss, bulking, athletic performance) and beginner-friendly nutrition guidance.
 
 ## User Requirements
 
