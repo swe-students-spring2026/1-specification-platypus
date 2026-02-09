@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Abid Ali Qureshi - https://github.com/Abid2422  
 Jeffrey Solano - https://github.com/jeffnoso
+Haoze(Frank) Wu - https://github.com/HandEater
 
 *Delete this line*
 Add your names and a link to your github profile
