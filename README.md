@@ -4,23 +4,20 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Abid Ali Qureshi - https://github.com/Abid2422  
-Jeffrey Solano - https://github.com/jeffnoso
-Haoze(Frank) Wu - https://github.com/HandEater
-Wonden Gyatso — https://github.com/wondeng 
-
-*Delete this line*
-Add your names and a link to your github profile
+Abid Ali Qureshi - https://github.com/Abid2422<br>
+Jeffrey Solano - https://github.com/jeffnoso<br>
+Haoze(Frank) Wu - https://github.com/HandEater<br>
+Wonden Gyatso — https://github.com/wondeng<br>
 
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
-Raahim Veqar - Tennis Player:
+Raahim V. - Tennis Player/Student Athlete:
 As an athlete Raahim track his calories by using rough estimates, as of now he does not use any application.
 He believes that an app that would provide healthy and delicious recipes would bring "an element of ease". His personal goals suggest he would prefer recipes of meals that are filling and that can help him sustain for a while both which can be made quickly or meals that require effort. He believes an app that provide proper nutrition plans would really help him out.
 
-Kaysan Khalid - Soccer Player:
+Kaysan K. - Soccer Player/Student:
 Kaysan is someone who is going through his weight loss journey and for him if he ever needs to cook something he uses Youtube and Google for recipes with detailed tutorials. He would prefer an app which is "easy, convienient and specific". Kaysan believes if the app had an AI assistant that could answer his questions on the spot while he's cooking, it could really help him. Additionally, he would also like if there was a video available or if not a video, detailed recipes would be his preference. Easy, healthy and tasty recipes are his bread and butter.
 
 Laura A. - Student:
