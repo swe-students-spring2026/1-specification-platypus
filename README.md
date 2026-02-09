@@ -28,22 +28,41 @@ Ariel is someone who has recently started going to the gym, and wants to put on 
 
 ## Product Vision Statement
 
-Product Vision Statement
+See instructions. Delete this line and place your Product Vision Statement here.
 
-For college students and fitness-oriented users who want to improve their diet but lack time and nutritional knowledge, dAIet is a diet-tracking and smart recipe recommendation app that provides quick meal ideas, calorie guidance, and AI-powered cooking assistance. Unlike generic recipe platforms, our app focuses on diet goals (weight loss, bulking, athletic performance) and beginner-friendly nutrition guidance.
+An application that provides healthy, easy and delicious meals and nutrition plans to students who want to change their diet.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
-
-- As an unregistered user I will have to login to get the service  
-- As a registered user I can view the exact number of calories in a recipe  
-- As a registered user I can view easy recipes alongside recipes that require effort
+### Athlete
 - As an Athlete I can create a nutrition plan based on my needs
+
+### Weight-Loss
 - As a user who wants to lose weight I can view recipes for meals which contain lesser calories
-- As a user who wants to bulk up I can view recipes for calorie dense meals
+- As a weight-loss user, I want to log a meal by taking a photo so that I can track calories with minimal effort
+- As a weight-loss user, I want to describe my meal with text so that I can log food even when I can’t take a photo
+-As a weight-loss user, I want the app to estimate calories with a confidence level so that I know how much to trust the number
+- As a weight-loss user, I want quick suggestions for lower-calorie substitutions so that I can stay on track without feeling deprived
+- As a weight-loss user, I want to set a goal rate of weight loss so that my calorie target feels realistic and safe
+- As a weight-loss user, I want a weekly trend view of calories vs weight so that I can see whether my plan is working
+- As a weight-loss user, I want “copy last meal” so that repeated meals take seconds to log
+- As a weight-loss user, I want to track snacks separately so that I stop “forgetting” small calories that add up
+- As a weight-loss user, I want reminders to log meals so that I don’t miss entries and lose accuracy
+
+### Fitness
+- As a fitness user, I can view recipes for calorie dense meals
+- As a fitness user, I want the app to estimate protein, carbs, and fats so that I can hit my macro targets
+- As a fitness user, I want protein to be highlighted per meal so that I can distribute intake across the day
+- As a fitness user, I want to quickly log common “standard meals” (e.g., chicken+rice) so that tracking doesn’t slow me down
+- As a fitness user, I want the app to recognize supplements (whey, creatine) so that my intake is complete
+- As a fitness user, I want to edit ingredients (extra oil, less sauce) so that the macro estimate reflects cooking style
+- As a fitness user, I want to view my weekly protein consistency so that I can ensure steady progress
+- As a fitness user, I want the app to remember my frequently used portion sizes so that edits become one tap
+- As a fitness user, I want a “bulk log” for multiple items at once so that I can record complex meals faster
+- As a fitness user, I want to export or share my logs so that I can send them to my coach or accountability partner
+
+### College Student
 - As a college student I can view quick and easy recipes
-- As a paid user I get access to an AI assistant to help me while cooking on the spot
 
 
 ## Activity Diagrams
