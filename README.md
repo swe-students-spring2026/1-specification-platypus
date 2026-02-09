@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Abid Ali Qureshi - https://github.com/Abid2422
+Abid Ali Qureshi - https://github.com/Abid2422  
 Jeffrey Solano - https://github.com/jeffnoso
 
 *Delete this line*
@@ -37,14 +37,14 @@ An application that provides healthy, easy and delicious meals and nutrition pla
 
 See instructions. Delete this line and place a list of your User Stories here.
 
-As an unregistered user I will have to login to get the service
-As a registered user I can view the exact number of calories in a recipe
-As a registered user I can view easy recipes alongside recipes that require effort
-As an Athlete I can create a nutrition plan based on my needs
-As a user who wants to lose weight I can view recipes for meals which contain lesser calories
-As a user who wants to bulk up I can view recipes for calorie dense meals
-As a college student I can view quick and easy recipes
-As a paid user I get access to an AI assistant to help me while cooking on the spot
+- As an unregistered user I will have to login to get the service  
+- As a registered user I can view the exact number of calories in a recipe  
+- As a registered user I can view easy recipes alongside recipes that require effort
+- As an Athlete I can create a nutrition plan based on my needs
+- As a user who wants to lose weight I can view recipes for meals which contain lesser calories
+- As a user who wants to bulk up I can view recipes for calorie dense meals
+- As a college student I can view quick and easy recipes
+- As a paid user I get access to an AI assistant to help me while cooking on the spot
 
 
 ## Activity Diagrams
