@@ -21,6 +21,9 @@ He believes that an app that would provide healthy and delicious recipes would b
 Kaysan Khalid - Soccer Player:
 Kaysan is someone who is going through his weight loss journey and for him if he ever needs to cook something he uses Youtube and Google for recipes with detailed tutorials. He would prefer an app which is "easy, convienient and specific". Kaysan believes if the app had an AI assistant that could answer his questions on the spot while he's cooking, it could really help him. Additionally, he would also like if there was a video available or if not a video, detailed recipes would be his preference. Easy, healthy and tasty recipes are his bread and butter.
 
+Laura A. - Student:
+Laura is someone who wants to begin her fitness journey. She currently has no idea on how to diet to lose weight, or how to track calories accurately. She would like an app that is able to explain this process to a fresh beginner like her. Would also like simple recipes that fit into her busy schedule as she is studying abroad. She is worried about the app's ability to be used internationally, as she plans to travel a lot. Also worries about an app tracking calories when she is traveling/eating at restaurants, as it doesn't come with information about calories.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
