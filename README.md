@@ -99,9 +99,12 @@ For college students and fitness-oriented users who want to improve their diet b
 ![App Map](assets/app-map.png)
 
 
-## Clickable Prototype
+## Figma Wireframe
 
 Figma Wireframes:
 https://www.figma.com/design/SQSTGZ0XWEbK7V905zxzzt/Platypus---Wireframe?node-id=0-1&p=f&t=Eh008bErHsmNja4u-0
 
-(Clickable prototype interactions available in the Figma file.)
+## Clickable Prototype
+
+Clickable Prototype:
+https://www.figma.com/proto/SQSTGZ0XWEbK7V905zxzzt/Platypus---Wireframe?node-id=1-5&p=f&t=7Bk7t0Ifk4VWJELR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5
