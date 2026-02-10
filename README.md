@@ -25,12 +25,26 @@ Ariel is someone who has recently started going to the gym, and wants to put on 
 
 ## Product Vision Statement
 For college students and fitness-oriented users who want to improve their diet but lack time and nutritional knowledge, dAIet is a diet-tracking and smart recipe recommendation app that provides quick meal ideas, calorie guidance, and AI-powered cooking assistance. Unlike generic recipe platforms, our app focuses on diet goals (weight loss, bulking, athletic performance) and beginner-friendly nutrition guidance.
+
 ## User Requirements
 
 ### Athlete
-- As an Athlete I can create a nutrition plan based on my needs
+
+- As an Athlete I can add and view the number of calories I have had over the day to maintain my goals
+- As an Athelete I can view my macros(protien, carbs, fats etc.) to achieve my required daily intake
+- As an Athlete I can view recipes for quick and easy meals that can sustain me
+- As an Athlete I can ask the AI assistant to create a nutriton plan for me that fulfils my needs
+- As an Athlete I can ask the AI assistant questions regarding the recipes to clear out any confusion
+- As an Athlete I can filter for high protien, high carb meals for trining days
+- As an Athelete I can ask the AI assistant beginner friendly explainations for what is best for me
+- As an Athlete I can save recipes which I liked for future use
+- As an Athlete I can change my preferences based on my preferences over time
+- As an athlete, I want to see post workout meal recommendations so that I can recover faster after training.
+- As an athlete, I want to track my nutrition progress over time so that I can see whether my diet supports my performance.
+
 
 ### Weight-Loss
+
 - As a user who wants to lose weight I can view recipes for meals which contain lesser calories
 - As a weight-loss user, I want to log a meal by taking a photo so that I can track calories with minimal effort
 - As a weight-loss user, I want to describe my meal with text so that I can log food even when I can’t take a photo
@@ -43,6 +57,7 @@ For college students and fitness-oriented users who want to improve their diet b
 - As a weight-loss user, I want reminders to log meals so that I don’t miss entries and lose accuracy
 
 ### Fitness
+
 - As a fitness user, I can view recipes for calorie dense meals
 - As a fitness user, I want the app to estimate protein, carbs, and fats so that I can hit my macro targets
 - As a fitness user, I want protein to be highlighted per meal so that I can distribute intake across the day
@@ -55,7 +70,17 @@ For college students and fitness-oriented users who want to improve their diet b
 - As a fitness user, I want to export or share my logs so that I can send them to my coach or accountability partner
 
 ### College Student
+
 - As a college student I can view quick and easy recipes
+- As a college student I can save recipes I enjoyed for future use
+- As a college student I can track my daily intake to make sure I am not eating less/more than I should
+- As a college student I can ask the app to alert me if I am low on calories
+- As a college student I want to be able to share recipes with my friends
+- As a college student I can ask the AI assistant to recommend new recipes to me
+- As a college student I want to view budget friendly recipes that don't consume too much time
+- As a college student I need recipes that I can cook using an air fryer/microwave
+- As a college student I want beginner friendly nutrition tips so I can make more healthy choices
+- As a college student I want beginner freidnly tips from the AI assistant if I want to start my fitness journey based on my goals
 
 
 ## Activity Diagrams
