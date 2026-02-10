@@ -10,9 +10,6 @@ Haoze(Frank) Wu - https://github.com/HandEater<br>
 Wonden Gyatso — https://github.com/wondeng<br>
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
 Raahim V. - Tennis Player/Student Athlete:
 As an athlete Raahim track his calories by using rough estimates, as of now he does not use any application.
 He believes that an app that would provide healthy and delicious recipes would bring "an element of ease". His personal goals suggest he would prefer recipes of meals that are filling and that can help him sustain for a while both which can be made quickly or meals that require effort. He believes an app that provide proper nutrition plans would really help him out.
@@ -27,11 +24,7 @@ Ariel C.G. - Student:
 Ariel is someone who has recently started going to the gym, and wants to put on a bit of muscle without putting on much weight. He would like an app that accurately tracks his protein, and keeps his total for each day, so he can see how hes been keeping up with his eating. Would also like an activity page to track calories lost from their workouts at the gym. Wants to have a nice variety of recipes, as he has a perception of dieting being eating the same boring meals.
 
 ## Product Vision Statement
-
-See instructions. Delete this line and place your Product Vision Statement here.
-
-An application that provides healthy, easy and delicious meals and nutrition plans to students who want to change their diet.
-
+For college students and fitness-oriented users who want to improve their diet but lack time and nutritional knowledge, dAIet is a diet-tracking and smart recipe recommendation app that provides quick meal ideas, calorie guidance, and AI-powered cooking assistance. Unlike generic recipe platforms, our app focuses on diet goals (weight loss, bulking, athletic performance) and beginner-friendly nutrition guidance.
 ## User Requirements
 
 ### Athlete
