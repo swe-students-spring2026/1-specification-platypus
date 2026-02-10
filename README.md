@@ -86,7 +86,7 @@ For college students and fitness-oriented users who want to improve their diet b
 
 ## Activity Diagrams
 
-![UML Overview](assets/uml-overview.png)
+![UML Overview](assets/UML-overview.png)
 
 ## App Navigation Map
 
