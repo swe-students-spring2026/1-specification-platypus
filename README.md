@@ -101,4 +101,7 @@ For college students and fitness-oriented users who want to improve their diet b
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Figma Wireframes:
+https://www.figma.com/design/SQSTGZ0XWEbK7V905zxzzt/Platypus---Wireframe?node-id=0-1&p=f&t=Eh008bErHsmNja4u-0
+
+(Clickable prototype interactions available in the Figma file.)
