@@ -86,11 +86,18 @@ For college students and fitness-oriented users who want to improve their diet b
 
 ## Activity Diagrams
 
-![UML Overview](assets/UML-overview.png)
+### Login Flow
+![Login Flow](assets/uml-login.png)
+
+### Recipe Flow
+![Recipe Flow](assets/uml-recipes.png)
+
+### Chatbot Flow
+![Chatbot Flow](assets/uml-chatbot.png)
 
 ## App Navigation Map
-
 ![App Map](assets/app-map.png)
+
 
 ## Clickable Prototype
 
