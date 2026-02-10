@@ -89,8 +89,17 @@ For college students and fitness-oriented users who want to improve their diet b
 ### Login Flow
 ![Login Flow](assets/uml-login.png)
 
-### Recipe Flow
-![Recipe Flow](assets/uml-recipes.png)
+### Recipe Flow - Standard User
+![Recipe Flow - Standard User](assets/uml-Standard.png)
+
+### Recipe Flow - Fitness User
+![Recipe Flow - Fitness User](assets/uml-Fitness.png)
+
+### Recipe Flow - Student User
+![Recipe Flow - Student User](assets/uml-Student.png)
+
+### Recipe Flow - Athlete User
+![Recipe Flow - Athlete User](assets/uml-Athlete.png)
 
 ### Chatbot Flow
 ![Chatbot Flow](assets/uml-chatbot.png)
