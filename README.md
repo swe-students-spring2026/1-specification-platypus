@@ -7,7 +7,8 @@ A little exercise to get started with the specification phase of the software de
 Abid Ali Qureshi - https://github.com/Abid2422<br>
 Jeffrey Solano - https://github.com/jeffnoso<br>
 Haoze(Frank) Wu - https://github.com/HandEater<br>
-Wonden Gyatso — https://github.com/wondeng<br>
+Wonden Gyatso - https://github.com/wondeng<br>
+Natt Hong - https://github.com/nmh6063-star
 
 ## Stakeholders
 Raahim V. - Tennis Player/Student Athlete:
@@ -29,7 +30,7 @@ For college students and fitness-oriented users who want to improve their diet b
 ## User Requirements
 
 ### Athlete
-
+- As an Athlete I can create a nutrition plan based on my needs
 - As an Athlete I can add and view the number of calories I have had over the day to maintain my goals
 - As an Athelete I can view my macros(protien, carbs, fats etc.) to achieve my required daily intake
 - As an Athlete I can view recipes for quick and easy meals that can sustain me
