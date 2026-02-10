@@ -86,7 +86,11 @@ For college students and fitness-oriented users who want to improve their diet b
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Overview](assets/uml-overview.png)
+
+## App Navigation Map
+
+![App Map](assets/app-map.png)
 
 ## Clickable Prototype
 
